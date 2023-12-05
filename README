@@ -1,0 +1,7 @@
+RESTAURANTS CODE CHALLENGE
+In this repo contains the solution for the Restaurants without SQLAlchemy.
+
+Setup:Run pipenv install to install required dependencies and pipenv run to enter virtual environment.
+
+Author: Michael Muchiri
+License:None
